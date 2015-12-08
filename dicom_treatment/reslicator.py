@@ -1,5 +1,6 @@
 import pydicom
 import os
+from subprocess import call
 
 acquis_folder = os.getcwd()
 # get image size
