@@ -9,7 +9,7 @@ from os.path import expanduser
 import pydicom
 from anonymisator import anonymize
 
-patate = '/media/I/DataCRCHUM/Inter_Equipe/Kauffmann_Claude/AAA_Fluide_IE/Database_FLOW/patients_images/unsorted/'
+patate = '/home/p0054421/Downloads/temp_segment/AAA_CLET/DICOM/'
 # patate = "/home/p0054421/Downloads/testDicom/test/"
 
 def contained_dirs(dir):
